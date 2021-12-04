@@ -39,10 +39,13 @@ class MiFooter extends HTMLElement {
                 </td>
                 <td>
                     <div class="contacto">
-                        <b style="margin-left:7em;">Contacto:</b>
-                        <li>Correo electrónico: contactoaps@gmail.com</li>
-                        <li>Teléfono: 5534721923</li>
-
+                    <nav>
+                        <ul>
+                            <li>Contacto</li>
+                            <li>Correo electrónico: contactoaps@gmail.com</li>
+                            <li>Teléfono: 5534721923</li>
+                        </ul>
+                    </nav>
                     </div>
                 </td>
             </tr>
